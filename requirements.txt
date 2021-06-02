@@ -127,7 +127,7 @@ tornado==6.0.4
 traitlets==4.3.3
 twilio==6.35.5
 update==0.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 watchdog==0.10.2
 wcwidth==0.1.9
 webencodings==0.5.1
